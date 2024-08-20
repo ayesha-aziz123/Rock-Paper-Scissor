@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-ncx
+This is the Rock-Paper-Scissor game App
